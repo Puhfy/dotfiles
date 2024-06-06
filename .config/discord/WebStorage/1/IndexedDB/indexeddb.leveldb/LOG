@@ -1,0 +1,7 @@
+2024/06/05-01:49:14.056 653 Reusing MANIFEST /home/puhfy/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/06/05-01:49:14.056 653 Recovering log #3
+2024/06/05-01:49:14.057 653 Reusing old log /home/puhfy/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/000003.log 
+2024/06/05-02:03:16.348 650 Level-0 table #5: started
+2024/06/05-02:03:16.350 650 Level-0 table #5: 28810 bytes OK
+2024/06/05-02:03:16.352 650 Delete type=0 #3
+2024/06/05-02:03:16.352 650 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

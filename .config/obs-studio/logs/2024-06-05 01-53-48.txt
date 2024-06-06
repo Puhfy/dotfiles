@@ -1,0 +1,96 @@
+01:53:48.019: Using EGL/X11
+01:53:48.019: CPU Name: AMD Ryzen 5 3500 6-Core Processor
+01:53:48.019: CPU Speed: 4090.133MHz
+01:53:48.019: Physical Cores: 6, Logical Cores: 6
+01:53:48.019: Physical Memory: 7856MB Total, 1585MB Free
+01:53:48.019: Kernel Version: Linux 6.9.3-arch1-1
+01:53:48.019: Distribution: "EndeavourOS" Unknown
+01:53:48.019: Session Type: tty
+01:53:48.019: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+01:53:48.020: Qt Version: 6.7.1 (runtime), 6.7.0 (compiled)
+01:53:48.020: Portable mode: false
+01:53:48.080: OBS 30.1.2-1 (linux)
+01:53:48.080: ---------------------------------
+01:53:48.080: ---------------------------------
+01:53:48.080: audio settings reset:
+01:53:48.080: 	samples per sec: 48000
+01:53:48.080: 	speakers:        2
+01:53:48.080: 	max buffering:   960 milliseconds
+01:53:48.080: 	buffering type:  dynamically increasing
+01:53:48.083: ---------------------------------
+01:53:48.083: Initializing OpenGL...
+01:53:48.167: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1650 SUPER/PCIe/SSE2
+01:53:48.167: OpenGL loaded successfully, version 3.3.0 NVIDIA 550.78, shading language 3.30 NVIDIA via Cg compiler
+01:53:48.193: ---------------------------------
+01:53:48.193: video settings reset:
+01:53:48.193: 	base resolution:   1680x1050
+01:53:48.193: 	output resolution: 1152x720
+01:53:48.193: 	downscale filter:  Bicubic
+01:53:48.193: 	fps:               60/1
+01:53:48.193: 	format:            NV12
+01:53:48.193: 	YUV mode:          Rec. 709/Partial
+01:53:48.193: NV12 texture support enabled
+01:53:48.193: P010 texture support not available
+01:53:48.254: Audio monitoring device:
+01:53:48.254: 	name: Default
+01:53:48.254: 	id: default
+01:53:48.254: ---------------------------------
+01:53:48.261: Failed to load 'en-US' text for module: 'decklink-captions.so'
+01:53:48.268: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+01:53:48.274: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:53:48.274: Failed to initialize module 'decklink.so'
+01:53:48.398: [pipewire] No captures available
+01:53:48.418: v4l2loopback not installed, virtual camera disabled
+01:53:48.474: NVENC supported
+01:53:48.552: VAAPI: API version 1.21
+01:53:48.569: FFmpeg VAAPI H264 encoding supported
+01:53:48.639: FFmpeg VAAPI AV1 encoding supported
+01:53:48.713: FFmpeg VAAPI HEVC encoding supported
+01:53:49.018: ---------------------------------
+01:53:49.018:   Loaded Modules:
+01:53:49.018:     text-freetype2.so
+01:53:49.018:     rtmp-services.so
+01:53:49.018:     obs-x264.so
+01:53:49.018:     obs-webrtc.so
+01:53:49.018:     obs-vst.so
+01:53:49.018:     obs-transitions.so
+01:53:49.018:     obs-qsv11.so
+01:53:49.018:     obs-outputs.so
+01:53:49.018:     obs-libfdk.so
+01:53:49.018:     obs-filters.so
+01:53:49.018:     obs-ffmpeg.so
+01:53:49.018:     linux-v4l2.so
+01:53:49.018:     linux-pulseaudio.so
+01:53:49.018:     linux-pipewire.so
+01:53:49.018:     linux-jack.so
+01:53:49.018:     linux-capture.so
+01:53:49.018:     linux-alsa.so
+01:53:49.018:     image-source.so
+01:53:49.018:     frontend-tools.so
+01:53:49.018:     decklink-output-ui.so
+01:53:49.018:     decklink-captions.so
+01:53:49.018: ---------------------------------
+01:53:49.019: ==== Startup complete ===============================================
+01:53:49.062: All scene data cleared
+01:53:49.062: ------------------------------------------------
+01:53:49.065: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+01:53:49.065: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+01:53:49.065: pulse-input: Started recording from 'alsa_output.usb-USB_Audio_EKSA-H2_67452312EFCD-00.analog-stereo.monitor' (default)
+01:53:49.066: [Loaded global audio device]: 'Desktop Audio'
+01:53:49.066: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+01:53:49.066: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+01:53:49.066: pulse-input: Started recording from 'alsa_input.usb-USB_Audio_EKSA-H2_67452312EFCD-00.analog-stereo' (default)
+01:53:49.066: [Loaded global audio device]: 'Mic/Aux'
+01:53:49.067: xshm-input: Geometry 1680x1050 @ 0,0
+01:53:49.068: Switched to scene 'Scene'
+01:53:49.068: ------------------------------------------------
+01:53:49.068: Loaded scenes:
+01:53:49.068: - scene 'Scene':
+01:53:49.068:     - source: 'Screen Capture (XSHM)' (xshm_input)
+01:53:49.068: ------------------------------------------------
+01:53:49.595: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+01:53:49.595: 
+01:53:49.754: [rtmp-services plugin] Successfully updated file 'services.json' (version 254)
+01:53:49.754: [rtmp-services plugin] Successfully updated package (version 254)
+02:16:38.619: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+02:16:38.619: 

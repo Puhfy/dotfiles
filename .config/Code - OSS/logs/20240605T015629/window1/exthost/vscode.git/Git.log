@@ -1,0 +1,261 @@
+2024-06-05 01:56:34.467 [info] Log level: Info
+2024-06-05 01:56:34.467 [info] Validating found git in: "git"
+2024-06-05 01:56:34.467 [info] Using git "2.45.2" from "git"
+2024-06-05 01:56:34.467 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-05 01:56:34.467 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.467 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-05 01:56:34.467 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.467 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.467 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.471 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.471 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.475 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.475 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.481 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-05 01:56:34.481 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.486 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.486 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.489 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.489 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.494 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.494 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.502 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.502 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.506 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.511 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2024-06-05 01:56:34.520 [info] Open repository: /home/puhfy/.oh-my-zsh
+2024-06-05 01:56:34.533 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-05 01:56:34.533 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.533 [info] > git config --get commit.template [8ms]
+2024-06-05 01:56:34.543 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-05 01:56:34.543 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.549 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-06-05 01:56:34.550 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.550 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.562 [info] > git rev-parse --show-toplevel [9ms]
+2024-06-05 01:56:34.562 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.570 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.570 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.575 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.579 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-06-05 01:56:34.583 [info] Open repository: /home/puhfy/Arch-Hyprland
+2024-06-05 01:56:34.593 [info] > git config --get commit.template [4ms]
+2024-06-05 01:56:34.595 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-05 01:56:34.595 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.606 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-06-05 01:56:34.609 [warning] ENOENT: no such file or directory, open '/home/puhfy/Arch-Hyprland/.git/refs/remotes/origin/main'
+2024-06-05 01:56:34.609 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-05 01:56:34.609 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.613 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-06-05 01:56:34.620 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-05 01:56:34.620 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.624 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.624 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.628 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.628 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.636 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.636 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.641 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.641 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.646 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:34.646 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.653 [info] > git status -z -uall [35ms]
+2024-06-05 01:56:34.674 [info] > git merge-base refs/heads/main refs/remotes/origin/main [16ms]
+2024-06-05 01:56:34.679 [info] > git rev-parse --show-toplevel [27ms]
+2024-06-05 01:56:34.723 [info] > git status -z -uall [166ms]
+2024-06-05 01:56:34.723 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [45ms]
+2024-06-05 01:56:34.728 [info] > git config --get commit.template [55ms]
+2024-06-05 01:56:34.741 [info] > git merge-base refs/heads/master refs/remotes/origin/master [6ms]
+2024-06-05 01:56:34.745 [info] > git diff --name-status -z --diff-filter=ADMR f214cf3c8d1abbd900b0885fa6d4b8034a0142fc...refs/remotes/origin/main [17ms]
+2024-06-05 01:56:34.746 [info] > git rev-parse --git-dir --git-common-dir [23ms]
+2024-06-05 01:56:34.749 [info] Open repository: /home/puhfy/WaffleBlox-FullRepo
+2024-06-05 01:56:34.768 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [23ms]
+2024-06-05 01:56:34.773 [info] > git config --get commit.template [31ms]
+2024-06-05 01:56:34.774 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-05 01:56:34.774 [info] > git config --get commit.template [13ms]
+2024-06-05 01:56:34.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-06-05 01:56:34.794 [warning] ENOENT: no such file or directory, open '/home/puhfy/Arch-Hyprland/.git/refs/remotes/origin/main'
+2024-06-05 01:56:34.794 [info] > git diff --name-status -z --diff-filter=ADMR e0c6cb147030350c8e27dbdeda6e8a4d367d1e66...refs/remotes/origin/master [22ms]
+2024-06-05 01:56:34.801 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2024-06-05 01:56:34.804 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2024-06-05 01:56:34.807 [info] Open repository: /home/puhfy/Waffleblox-Website
+2024-06-05 01:56:34.807 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2024-06-05 01:56:34.821 [info] > git status -z -uall [17ms]
+2024-06-05 01:56:34.821 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/bootloader refs/remotes/bootloader [21ms]
+2024-06-05 01:56:34.825 [warning] ENOENT: no such file or directory, open '/home/puhfy/WaffleBlox-FullRepo/.git/refs/remotes/origin/bootloader'
+2024-06-05 01:56:34.825 [info] > git config --get commit.template [9ms]
+2024-06-05 01:56:34.838 [info] > git rev-parse refs/remotes/origin/bootloader [13ms]
+2024-06-05 01:56:34.842 [info] > git rev-parse --show-toplevel [22ms]
+2024-06-05 01:56:34.860 [info] > git status -z -uall [18ms]
+2024-06-05 01:56:34.860 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-06-05 01:56:34.863 [info] Open repository: /home/puhfy/bspwm
+2024-06-05 01:56:34.863 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-06-05 01:56:34.890 [info] > git status -z -uall [38ms]
+2024-06-05 01:56:34.890 [info] > git merge-base refs/heads/bootloader refs/remotes/origin/bootloader [18ms]
+2024-06-05 01:56:34.896 [info] > git config --get commit.template [6ms]
+2024-06-05 01:56:34.896 [info] > git rev-parse --show-toplevel [10ms]
+2024-06-05 01:56:34.896 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-05 01:56:34.896 [info] > git config --get commit.template [16ms]
+2024-06-05 01:56:34.904 [info] > git rev-list --count --left-right refs/heads/bootloader...refs/remotes/origin/bootloader [10ms]
+2024-06-05 01:56:34.921 [info] > git rev-parse --show-toplevel [17ms]
+2024-06-05 01:56:34.926 [info] > git status -z -uall [5ms]
+2024-06-05 01:56:34.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/bootloader refs/remotes/bootloader [17ms]
+2024-06-05 01:56:34.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [23ms]
+2024-06-05 01:56:34.935 [info] > git diff --name-status -z --diff-filter=ADMR ddef2321e95c9060eb38ab7783440747e0996053...refs/remotes/origin/bootloader [28ms]
+2024-06-05 01:56:34.971 [warning] ENOENT: no such file or directory, open '/home/puhfy/WaffleBlox-FullRepo/.git/refs/remotes/origin/bootloader'
+2024-06-05 01:56:34.974 [warning] ENOENT: no such file or directory, open '/home/puhfy/bspwm/.git/refs/remotes/origin/master'
+2024-06-05 01:56:34.974 [info] > git merge-base refs/heads/main refs/remotes/origin/main [43ms]
+2024-06-05 01:56:34.981 [info] > git rev-parse --git-dir --git-common-dir [55ms]
+2024-06-05 01:56:34.984 [info] Open repository: /home/puhfy/dots
+2024-06-05 01:56:34.996 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [16ms]
+2024-06-05 01:56:35.002 [info] > git rev-parse refs/remotes/origin/master [28ms]
+2024-06-05 01:56:35.006 [info] > git rev-parse refs/remotes/origin/bootloader [35ms]
+2024-06-05 01:56:35.009 [info] > git config --get commit.template [41ms]
+2024-06-05 01:56:35.010 [info] > git status -z -uall [1ms]
+2024-06-05 01:56:35.010 [info] > git diff --name-status -z --diff-filter=ADMR b5b4746f85690b3c57a00ab9ca13f06f9505916d...refs/remotes/origin/main [8ms]
+2024-06-05 01:56:35.011 [info] > git config --get commit.template [16ms]
+2024-06-05 01:56:35.011 [info] > git rev-parse --show-toplevel [20ms]
+2024-06-05 01:56:35.028 [info] > git status -z -uall [22ms]
+2024-06-05 01:56:35.028 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-06-05 01:56:35.032 [info] Open repository: /home/puhfy/i3-radius
+2024-06-05 01:56:35.033 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2024-06-05 01:56:35.054 [info] > git merge-base refs/heads/master refs/remotes/origin/master [16ms]
+2024-06-05 01:56:35.057 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
+2024-06-05 01:56:35.061 [warning] ENOENT: no such file or directory, open '/home/puhfy/dots/.git/refs/remotes/origin/master'
+2024-06-05 01:56:35.062 [info] > git config --get commit.template [8ms]
+2024-06-05 01:56:35.062 [info] > git rev-parse --show-toplevel [11ms]
+2024-06-05 01:56:35.062 [info] > git config --get commit.template [18ms]
+2024-06-05 01:56:35.069 [info] > git rev-parse refs/remotes/origin/master [8ms]
+2024-06-05 01:56:35.073 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [16ms]
+2024-06-05 01:56:35.088 [info] > git rev-parse --git-dir --git-common-dir [20ms]
+2024-06-05 01:56:35.091 [info] Open repository: /home/puhfy/morc_menu
+2024-06-05 01:56:35.103 [info] > git status -z -uall [15ms]
+2024-06-05 01:56:35.104 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2024-06-05 01:56:35.104 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/shape refs/remotes/shape [21ms]
+2024-06-05 01:56:35.105 [info] > git diff --name-status -z --diff-filter=ADMR af3bd8b4351f4478fe0fe3cfd6c09e44cb108b4b...refs/remotes/origin/master [29ms]
+2024-06-05 01:56:35.109 [warning] ENOENT: no such file or directory, open '/home/puhfy/bspwm/.git/refs/remotes/origin/master'
+2024-06-05 01:56:35.114 [warning] ENOENT: no such file or directory, open '/home/puhfy/i3-radius/.git/refs/remotes/origin/shape'
+2024-06-05 01:56:35.115 [info] > git rev-parse --show-toplevel [12ms]
+2024-06-05 01:56:35.116 [info] > git config --get commit.template [18ms]
+2024-06-05 01:56:35.120 [info] > git rev-parse refs/remotes/origin/shape [6ms]
+2024-06-05 01:56:35.124 [info] > git rev-parse refs/remotes/origin/master [15ms]
+2024-06-05 01:56:35.134 [info] > git status -z -uall [7ms]
+2024-06-05 01:56:35.135 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2024-06-05 01:56:35.138 [info] Open repository: /home/puhfy/picom
+2024-06-05 01:56:35.152 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-06-05 01:56:35.159 [warning] ENOENT: no such file or directory, open '/home/puhfy/morc_menu/.git/refs/remotes/origin/master'
+2024-06-05 01:56:35.159 [info] > git rev-parse --show-toplevel [8ms]
+2024-06-05 01:56:35.159 [info] > git config --get commit.template [15ms]
+2024-06-05 01:56:35.165 [info] > git rev-parse refs/remotes/origin/master [6ms]
+2024-06-05 01:56:35.172 [info] > git status -z -uall [4ms]
+2024-06-05 01:56:35.172 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-06-05 01:56:35.175 [info] Open repository: /home/puhfy/sxhkd
+2024-06-05 01:56:35.181 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/next refs/remotes/next [10ms]
+2024-06-05 01:56:35.192 [warning] ENOENT: no such file or directory, open '/home/puhfy/picom/.git/refs/remotes/origin/next'
+2024-06-05 01:56:35.196 [info] > git merge-base refs/heads/master refs/remotes/origin/master [10ms]
+2024-06-05 01:56:35.202 [info] > git config --get commit.template [21ms]
+2024-06-05 01:56:35.204 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [3ms]
+2024-06-05 01:56:35.208 [info] > git config --get commit.template [13ms]
+2024-06-05 01:56:35.208 [info] > git rev-parse refs/remotes/origin/next [16ms]
+2024-06-05 01:56:35.218 [info] > git diff --name-status -z --diff-filter=ADMR 2d89cb6b0c74e0dc8f17a7067f9e1d6ab4a90c40...refs/remotes/origin/master [10ms]
+2024-06-05 01:56:35.222 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-06-05 01:56:35.225 [warning] ENOENT: no such file or directory, open '/home/puhfy/sxhkd/.git/refs/remotes/origin/master'
+2024-06-05 01:56:35.225 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-06-05 01:56:35.230 [warning] ENOENT: no such file or directory, open '/home/puhfy/morc_menu/.git/refs/remotes/origin/master'
+2024-06-05 01:56:35.231 [info] > git rev-parse refs/remotes/origin/master [6ms]
+2024-06-05 01:56:35.236 [info] > git status -z -uall [163ms]
+2024-06-05 01:56:35.243 [info] > git rev-parse refs/remotes/origin/master [13ms]
+2024-06-05 01:56:35.253 [info] > git status -z -uall [129ms]
+2024-06-05 01:56:35.253 [info] > git status -z -uall [18ms]
+2024-06-05 01:56:35.253 [info] > git status -z -uall [3ms]
+2024-06-05 01:56:35.253 [info] > git merge-base refs/heads/master refs/remotes/origin/master [13ms]
+2024-06-05 01:56:35.269 [info] > git merge-base refs/heads/master refs/remotes/origin/master [9ms]
+2024-06-05 01:56:35.272 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [16ms]
+2024-06-05 01:56:35.275 [info] > git config --get commit.template [22ms]
+2024-06-05 01:56:35.289 [info] > git status -z -uall [76ms]
+2024-06-05 01:56:35.290 [info] > git merge-base refs/heads/shape refs/remotes/origin/shape [8ms]
+2024-06-05 01:56:35.293 [info] > git diff --name-status -z --diff-filter=ADMR de55a0009cd50071313a2e6164c8daaf96d9e63e...refs/remotes/origin/master [18ms]
+2024-06-05 01:56:35.293 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [21ms]
+2024-06-05 01:56:35.300 [info] > git config --get commit.template [31ms]
+2024-06-05 01:56:35.316 [info] > git merge-base refs/heads/next refs/remotes/origin/next [12ms]
+2024-06-05 01:56:35.319 [info] > git diff --name-status -z --diff-filter=ADMR b0923b6b3d5d85b1ff80a5bb286934b8721a7c08...refs/remotes/origin/master [19ms]
+2024-06-05 01:56:35.320 [info] > git rev-list --count --left-right refs/heads/shape...refs/remotes/origin/shape [27ms]
+2024-06-05 01:56:35.323 [info] > git config --get commit.template [34ms]
+2024-06-05 01:56:35.327 [info] > git diff --name-status -z --diff-filter=ADMR 939ccc6c3caff6c5986bff97b18989848949a2fb...refs/remotes/origin/shape [5ms]
+2024-06-05 01:56:35.328 [info] > git rev-list --count --left-right refs/heads/next...refs/remotes/origin/next [9ms]
+2024-06-05 01:56:35.333 [info] > git config --get commit.template [20ms]
+2024-06-05 01:56:35.333 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2024-06-05 01:56:35.339 [warning] ENOENT: no such file or directory, open '/home/puhfy/dots/.git/refs/remotes/origin/master'
+2024-06-05 01:56:35.339 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-06-05 01:56:35.347 [warning] ENOENT: no such file or directory, open '/home/puhfy/sxhkd/.git/refs/remotes/origin/master'
+2024-06-05 01:56:35.348 [info] > git rev-parse refs/remotes/origin/master [8ms]
+2024-06-05 01:56:35.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/shape refs/remotes/shape [15ms]
+2024-06-05 01:56:35.351 [info] > git diff --name-status -z --diff-filter=ADMR e3c19cd7d1108d114552267f302548c113278d45...refs/remotes/origin/next [18ms]
+2024-06-05 01:56:35.354 [warning] ENOENT: no such file or directory, open '/home/puhfy/i3-radius/.git/refs/remotes/origin/shape'
+2024-06-05 01:56:35.354 [info] > git rev-parse refs/remotes/origin/master [8ms]
+2024-06-05 01:56:35.357 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/next refs/remotes/next [15ms]
+2024-06-05 01:56:35.361 [warning] ENOENT: no such file or directory, open '/home/puhfy/picom/.git/refs/remotes/origin/next'
+2024-06-05 01:56:35.361 [info] > git status -z -uall [4ms]
+2024-06-05 01:56:35.361 [info] > git rev-parse refs/remotes/origin/shape [7ms]
+2024-06-05 01:56:35.366 [info] > git rev-parse refs/remotes/origin/next [5ms]
+2024-06-05 01:56:35.390 [info] > git status -z -uall [39ms]
+2024-06-05 01:56:35.394 [info] > git status -z -uall [28ms]
+2024-06-05 01:56:35.419 [info] > git status -z -uall [50ms]
+2024-06-05 01:56:35.742 [info] > git check-ignore -v -z --stdin [35ms]
+2024-06-05 01:56:35.742 [info] > git check-ignore -v -z --stdin [32ms]
+2024-06-05 01:56:35.743 [info] > git check-ignore -v -z --stdin [2ms]
+2024-06-05 01:56:35.743 [info] > git check-ignore -v -z --stdin [27ms]
+2024-06-05 01:56:35.743 [info] > git check-ignore -v -z --stdin [24ms]
+2024-06-05 01:56:35.743 [info] > git check-ignore -v -z --stdin [21ms]
+2024-06-05 01:56:35.743 [info] > git check-ignore -v -z --stdin [18ms]
+2024-06-05 01:56:35.744 [info] > git check-ignore -v -z --stdin [16ms]
+2024-06-05 01:56:35.744 [info] > git check-ignore -v -z --stdin [9ms]
+2024-06-05 01:56:35.744 [info] > git check-ignore -v -z --stdin [6ms]
+2024-06-05 01:56:35.899 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:35.903 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:35.906 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-05 01:56:35.907 [warning] Failed to get repository realpath for: "/home/puhfy/dots/home/jaagr/.vimperator/plugins". Error: ENOENT: no such file or directory, realpath '/home/puhfy/dots/home/jaagr/.vimperator/plugins'
+2024-06-05 01:56:35.910 [warning] Failed to get repository realpath for: "/home/puhfy/dots/home/jaagr/.vimperator/colors". Error: ENOENT: no such file or directory, realpath '/home/puhfy/dots/home/jaagr/.vimperator/colors'
+2024-06-05 01:56:45.324 [info] Log level: Info
+2024-06-05 01:56:45.324 [info] Validating found git in: "git"
+2024-06-05 01:56:45.324 [info] Using git "2.45.2" from "git"
+2024-06-05 01:56:45.324 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-05 01:56:45.324 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-06-05 01:56:45.333 [info] Open repository: /home/puhfy/Waffleblox-Website
+2024-06-05 01:56:45.385 [info] > git config --get commit.template [10ms]
+2024-06-05 01:56:45.396 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-06-05 01:56:45.420 [info] > git status -z -uall [11ms]
+2024-06-05 01:56:45.436 [info] > git merge-base refs/heads/main refs/remotes/origin/main [11ms]
+2024-06-05 01:56:45.441 [info] > git config --get commit.template [5ms]
+2024-06-05 01:56:45.441 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [2ms]
+2024-06-05 01:56:45.459 [info] > git diff --name-status -z --diff-filter=ADMR b5b4746f85690b3c57a00ab9ca13f06f9505916d...refs/remotes/origin/main [14ms]
+2024-06-05 01:56:45.461 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-06-05 01:56:45.470 [info] > git status -z -uall [1ms]
+2024-06-05 01:56:45.642 [info] > git show --textconv :styles.css [4ms]
+2024-06-05 01:56:45.643 [info] > git ls-files --stage -- /home/puhfy/Waffleblox-Website/styles.css [1ms]
+2024-06-05 01:56:45.649 [info] > git cat-file -s 2a78c0d02de619f5aeae7b482b556ac4c19faa69 [1ms]
+2024-06-05 01:56:45.879 [info] > git check-ignore -v -z --stdin [2ms]
+2024-06-05 01:57:20.449 [info] > git show --textconv :index.html [6ms]
+2024-06-05 01:57:20.451 [info] > git ls-files --stage -- /home/puhfy/Waffleblox-Website/index.html [2ms]
+2024-06-05 01:57:20.455 [info] > git cat-file -s 0af5c0f5b3a7ee956f943cf89ee91308b22daf1b [1ms]
+2024-06-05 01:57:25.142 [info] > git show --textconv :styles.css [4ms]
+2024-06-05 01:57:25.144 [info] > git ls-files --stage -- /home/puhfy/Waffleblox-Website/styles.css [1ms]
+2024-06-05 01:57:25.150 [info] > git cat-file -s 2a78c0d02de619f5aeae7b482b556ac4c19faa69 [1ms]
+2024-06-05 01:57:47.017 [info] > git config --get commit.template [7ms]
+2024-06-05 01:57:47.019 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-06-05 01:57:47.025 [info] > git status -z -uall [1ms]
+2024-06-05 01:57:53.234 [info] > git config --get commit.template [12ms]
+2024-06-05 01:57:53.234 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-06-05 01:57:53.241 [info] > git status -z -uall [2ms]
+2024-06-05 02:01:01.069 [info] > git config --get commit.template [7ms]
+2024-06-05 02:01:01.070 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-06-05 02:01:01.076 [info] > git status -z -uall [1ms]
+2024-06-05 02:01:08.837 [info] > git config --get commit.template [4ms]
+2024-06-05 02:01:08.837 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-06-05 02:01:08.842 [info] > git status -z -uall [1ms]
+2024-06-05 02:01:31.980 [info] > git config --get commit.template [5ms]
+2024-06-05 02:01:31.982 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-06-05 02:01:31.986 [info] > git status -z -uall [1ms]
+2024-06-05 02:02:45.386 [info] > git config --get commit.template [1ms]
+2024-06-05 02:02:45.390 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-06-05 02:02:45.394 [info] > git status -z -uall [1ms]

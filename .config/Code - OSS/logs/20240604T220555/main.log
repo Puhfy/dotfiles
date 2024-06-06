@@ -1,0 +1,4 @@
+2024-06-04 22:05:55.381 [info] update#setState disabled
+2024-06-04 22:05:55.383 [info] update#ctor - updates are disabled as there is no update URL
+2024-06-04 22:51:29.502 [error] CodeWindow: renderer process gone (reason: killed, code: 9)
+2024-06-04 22:51:29.680 [info] Extension host with pid 88297 exited with code: 0, signal: unknown.

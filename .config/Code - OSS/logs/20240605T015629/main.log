@@ -1,0 +1,5 @@
+2024-06-05 01:56:29.594 [info] update#setState disabled
+2024-06-05 01:56:29.595 [info] update#ctor - updates are disabled as there is no update URL
+2024-06-05 01:56:43.798 [info] Extension host with pid 22735 exited with code: 0, signal: unknown.
+2024-06-05 03:06:07.271 [error] [UtilityProcess type: shared-process, pid: 22714]: crashed with code 15 and reason 'killed'
+2024-06-05 03:06:07.307 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

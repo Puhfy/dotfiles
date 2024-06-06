@@ -1,0 +1,5 @@
+2024/06/06-03:28:52.774 4b8 Reusing MANIFEST /home/puhfy/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/06/06-03:28:52.781 4b8 Recovering log #140
+2024/06/06-03:28:52.781 4b8 Reusing old log /home/puhfy/.config/discord/Local Storage/leveldb/000140.log 
+2024/06/06-03:30:04.424 4da Level-0 table #144: started
+2024/06/06-03:30:04.435 4da Level-0 table #144: 767955 bytes OK

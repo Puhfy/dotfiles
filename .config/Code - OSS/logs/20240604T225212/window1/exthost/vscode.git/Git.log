@@ -1,0 +1,30 @@
+2024-06-04 22:52:14.295 [info] Log level: Info
+2024-06-04 22:52:14.295 [info] Validating found git in: "git"
+2024-06-04 22:52:14.295 [info] Using git "2.45.2" from "git"
+2024-06-04 22:52:14.295 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-04 22:52:14.295 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-06-04 22:52:14.295 [info] Open repository: /home/puhfy/Waffleblox-Website
+2024-06-04 22:52:14.295 [info] > git config --get commit.template [60ms]
+2024-06-04 22:52:14.305 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-06-04 22:52:14.311 [warning] ENOENT: no such file or directory, open '/home/puhfy/Waffleblox-Website/.git/refs/remotes/origin/main'
+2024-06-04 22:52:14.312 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-06-04 22:52:14.319 [info] > git status -z -uall [3ms]
+2024-06-04 22:52:14.334 [info] > git merge-base refs/heads/main refs/remotes/origin/main [9ms]
+2024-06-04 22:52:14.340 [info] > git config --get commit.template [7ms]
+2024-06-04 22:52:14.342 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [3ms]
+2024-06-04 22:52:14.350 [info] > git diff --name-status -z --diff-filter=ADMR 795b444d7b08885a23fc59e1ca7cbf28bd7e8685...refs/remotes/origin/main [3ms]
+2024-06-04 22:52:14.353 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-06-04 22:52:14.358 [warning] ENOENT: no such file or directory, open '/home/puhfy/Waffleblox-Website/.git/refs/remotes/origin/main'
+2024-06-04 22:52:14.359 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-06-04 22:52:14.365 [info] > git status -z -uall [2ms]
+2024-06-04 22:52:14.689 [info] > git show --textconv :styles.css [5ms]
+2024-06-04 22:52:14.690 [info] > git ls-files --stage -- /home/puhfy/Waffleblox-Website/styles.css [2ms]
+2024-06-04 22:52:14.790 [info] > git check-ignore -v -z --stdin [1ms]
+2024-06-04 22:52:20.813 [info] > git config --get commit.template [11ms]
+2024-06-04 22:52:20.815 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-06-04 22:52:20.819 [warning] ENOENT: no such file or directory, open '/home/puhfy/Waffleblox-Website/.git/refs/remotes/origin/main'
+2024-06-04 22:52:20.821 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-06-04 22:52:20.829 [info] > git status -z -uall [4ms]
+2024-06-04 22:52:20.871 [info] > git show --textconv :index.html [7ms]
+2024-06-04 22:52:20.872 [info] > git ls-files --stage -- /home/puhfy/Waffleblox-Website/index.html [2ms]
+2024-06-04 22:52:20.879 [info] > git cat-file -s cce42615ea977ca6962450686489f0b504b78fcf [2ms]

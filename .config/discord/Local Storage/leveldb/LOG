@@ -1,0 +1,19 @@
+2024/06/06-03:31:13.966 8f4 Reusing MANIFEST /home/puhfy/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/06/06-03:31:13.967 8f4 Recovering log #140
+2024/06/06-03:31:13.976 8f4 Level-0 table #143: started
+2024/06/06-03:31:13.988 8f4 Level-0 table #143: 767955 bytes OK
+2024/06/06-03:31:13.988 8f4 Recovering log #143
+2024/06/06-03:31:13.988 8f4 Reusing old log /home/puhfy/.config/discord/Local Storage/leveldb/000143.log 
+2024/06/06-03:31:13.991 8f4 Delete type=0 #140
+2024/06/06-03:31:13.991 8f4 Delete type=2 #144
+2024/06/06-03:31:13.992 8f8 Compacting 4@0 + 2@1 files
+2024/06/06-03:31:14.011 8f8 Generated table #144@0: 13 keys, 2348556 bytes
+2024/06/06-03:31:14.035 8f8 Generated table #145@0: 93 keys, 3160003 bytes
+2024/06/06-03:31:14.036 8f8 Compacted 4@0 + 2@1 files => 5508559 bytes
+2024/06/06-03:31:14.038 8f8 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/06/06-03:31:14.038 8f8 Delete type=2 #133
+2024/06/06-03:31:14.038 8f8 Delete type=2 #141
+2024/06/06-03:31:14.038 8f8 Delete type=2 #143
+2024/06/06-03:31:14.038 8f8 Delete type=2 #136
+2024/06/06-03:31:14.038 8f8 Delete type=2 #132
+2024/06/06-03:31:14.038 8f8 Delete type=2 #138

@@ -1,0 +1,20 @@
+2024-06-01 16:49:57.490 [info] Started local extension host with pid 6303.
+2024-06-01 16:49:57.658 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.activeIconPack'. This property is already registered.
+2024-06-01 16:49:57.660 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.files.associations'. This property is already registered.
+2024-06-01 16:49:57.661 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.folders.associations'. This property is already registered.
+2024-06-01 16:49:57.661 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.languages.associations'. This property is already registered.
+2024-06-01 16:49:57.662 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.folders.theme'. This property is already registered.
+2024-06-01 16:49:57.662 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.folders.color'. This property is already registered.
+2024-06-01 16:49:57.662 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.opacity'. This property is already registered.
+2024-06-01 16:49:57.663 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.hidesExplorerArrows'. This property is already registered.
+2024-06-01 16:49:57.663 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.saturation'. This property is already registered.
+2024-06-01 16:49:57.684 [info] [PKief.material-icon-theme]: Command `material-icon-theme.activateIcons` already registered by Material Icon Theme (cweijan.cweijan-personal-material-icon-theme)
+2024-06-01 16:49:57.685 [info] [PKief.material-icon-theme]: Command `material-icon-theme.toggleIconPacks` already registered by Material Icon Theme (cweijan.cweijan-personal-material-icon-theme)
+2024-06-01 16:49:57.686 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeFolderTheme` already registered by Material Icon Theme (cweijan.cweijan-personal-material-icon-theme)
+2024-06-01 16:49:57.686 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeFolderColor` already registered by Material Icon Theme (cweijan.cweijan-personal-material-icon-theme)
+2024-06-01 16:49:57.686 [info] [PKief.material-icon-theme]: Command `material-icon-theme.restoreDefaultConfig` already registered by Material Icon Theme (cweijan.cweijan-personal-material-icon-theme)
+2024-06-01 16:49:57.686 [info] [PKief.material-icon-theme]: Command `material-icon-theme.toggleExplorerArrows` already registered by Material Icon Theme (cweijan.cweijan-personal-material-icon-theme)
+2024-06-01 16:49:57.686 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeOpacity` already registered by Material Icon Theme (cweijan.cweijan-personal-material-icon-theme)
+2024-06-01 16:49:57.686 [info] [PKief.material-icon-theme]: Command `material-icon-theme.toggleGrayscale` already registered by Material Icon Theme (cweijan.cweijan-personal-material-icon-theme)
+2024-06-01 16:49:57.686 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeSaturation` already registered by Material Icon Theme (cweijan.cweijan-personal-material-icon-theme)
+2024-06-01 16:50:00.275 [info] [perf] Render performance baseline is 29ms

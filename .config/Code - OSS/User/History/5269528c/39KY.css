@@ -1,0 +1,134 @@
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #111; /* Dark background */
+    color: #fff; /* Light text color */
+    min-height: 100vh; /* Set the minimum height to 100% of the viewport height */
+    margin: 0; /* Remove any default margin */
+    padding: 0; /* Remove any default padding */
+}
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Header styles */
+header {
+    background-color: #000; /* Dark header background */
+    padding: 20px 0;
+}
+
+.heading {
+    color: #fff; /* White text color */
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+/* Navigation styles */
+nav {
+    background-color: #222; /* Dark navigation background */
+    padding: 10px 0;
+    text-align: center;
+    display: flex;
+}
+
+.nav-content {
+    display: inline-flex;
+}
+.nav-link {
+    color: #fff; /* White text color */
+    text-decoration: none;
+    margin: 0 10px; /* Adjust spacing */
+    font-size: 1rem; /* Adjust font size */
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.nav-link:hover {
+    color: rgb(92, 119, 129);
+    text-shadow: 0 0 8px rgba(92, 119, 129, 0.575); /* Apply text shadow effect */
+}
+
+/* Game templates section styles */
+.game-templates {
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Allow cards to wrap */
+}
+
+.game-template {
+    background-color: #333; /* Dark card background */
+    width: 300px; /* Adjust card width */
+    height: 340px;
+    margin: 20px; /* Adjust spacing */
+    padding: 20px;
+    transition: box-shadow 0.3s ease;
+    border-radius: 2px; /* Rounded corners */ /* Subtle shadow */
+}
+.game-template:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 8px 4px rgba(92, 119, 129, 0.575);
+}
+
+.game-template-img {
+    width: 125px;
+    height: 125px;
+    border-radius: 8px; /* Rounded corners */
+    margin-bottom: 20px; /* Adjust spacing */
+}
+
+.game-template-heading {
+    font-size: 1.5rem;
+    margin-bottom: 10px; /* Adjust spacing */
+}
+
+.game-template-description {
+    font-size: 1rem;
+    margin-bottom: 20px; /* Adjust spacing */
+}
+
+/* Button styles */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #00a2ff; /* Roblox blue */
+    color: #fff; /* White text color */
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #007bbd; /* Darker shade on hover */
+}
+
+/* Footer styles */
+footer {
+    background-color: #000; /* Dark footer background */
+    color: #fff; /* White text color */
+    padding: 20px 0;
+    text-align: center;
+    position: fixed; /* Fixed positioning */
+    width: 100%; /* Take full width */
+    bottom: 0; /* Stick to the bottom */
+}
+
+.footer-text {
+    font-size: 0.9rem;
+}
